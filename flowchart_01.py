@@ -1,7 +1,7 @@
-git config --global user.email "01697550772@naver.com"
-git config --global user.name "HarryBaek"
+# git config --global user.email "01697550772@naver.com"
+# git config --global user.name "HarryBaek"
 
-git config --list
+# git config --list
 
 a = 1
 b = 2
